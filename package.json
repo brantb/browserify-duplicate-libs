@@ -1,0 +1,22 @@
+{
+  "name": "browserify-dedupe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "backbone": "^1.1.2",
+    "backbone-relational": "^0.9.0",
+    "backbone.marionette": "^2.3.0"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-browserify": "^3.2.1",
+    "grunt-contrib-clean": "^0.6.0",
+    "load-grunt-tasks": "^2.0.0"
+  }
+}
